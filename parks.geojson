@@ -1,0 +1,2679 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.32367399999998,
+                    41.994865,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Goose Lake Recreation Area"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.22500000000002,
+                    44.306727,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Farewell Bend State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.18745000000001,
+                    44.494275,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Unity Lake State Recreation Site"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.08878199999998,
+                    44.416072,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Clyde Holliday State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.24230999999997,
+                    43.61694,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lake Owyhee State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.11990100000003,
+                    43.45348,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Succor Creek State Natural Area"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.74044400000002,
+                    45.152589,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Catherine Creek State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.16837499999997,
+                    45.918199,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hat Rock State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.22405800000001,
+                    45.340697,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hilgard Junction State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.33172300000001,
+                    45.289801,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Red Bridge Wayside State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.97088100000002,
+                    45.126319,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ukiah-Dale Forest State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.46524999999997,
+                    45.541135,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Emigrant State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.729063,
+                    45.637492,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Minam State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62092789999997,
+                    42.6816292,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Joseph Stewart State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.27507200000002,
+                    44.543016,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Cove Palisades State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.72812599999997,
+                    44.132016,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Prineville Reservoir State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.90860099999998,
+                    45.606369,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Deschutes River State Recreation Area"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.06983600000001,
+                    43.373542,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fort Rock State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.53775200000001,
+                    43.773389,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "La Pine State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.330064,
+                    44.129341,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tumalo State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.13898799999998,
+                    44.367612,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Smith Rock State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.43506200000002,
+                    42.687127,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Humbug Mountain State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.53832899999998,
+                    42.82919,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cape Blanco State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.40157099999999,
+                    43.151384,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bullards Beach State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.19093800000002,
+                    42.112855,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Alfred A Loeb State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.30936400000002,
+                    42.065389,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Harris Beach State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.18857500000001,
+                    44.719927,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Detroit Lake State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.177121,
+                    43.608542,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "William M. Tugman State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.37174700000003,
+                    43.330356,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sunset Bay State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.13274100000001,
+                    42.408961,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Valley of the Rogue State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.90531799999997,
+                    45.252679,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Champoeg State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.18892700000004,
+                    43.664338,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Umpqua Lighthouse State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.08875699999999,
+                    44.380706,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Beachside State Recreation Site"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.10905600000001,
+                    44.151943,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Carl G Washburne Memorial State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.10863799999998,
+                    43.927171,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Jessie M. Honeyman Memorial State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.36204700000002,
+                    45.29451,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Milo McIver State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.050881,
+                    45.595947,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ainsworth State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.37910999999997,
+                    45.541438,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lewis and Clark State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.33834200000001,
+                    45.6954,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Memaloose State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.66629799999998,
+                    45.695749,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Viento State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.957403,
+                    46.18423,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fort Stevens State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.969559,
+                    45.342784,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cape Lookout State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.68457799999999,
+                    45.967669,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Saddle Mountain State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.93625400000002,
+                    45.67333,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Nehalem Bay State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.51098100000002,
+                    44.590162,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bates State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.04918750000002,
+                    44.7286233,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Beverly Beach State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.47754099999997,
+                    44.398501,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cascadia State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.87314400000002,
+                    42.64276,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Collier Memorial State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.01245319999998,
+                    44.9699099,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Devils Lake State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72602699999999,
+                    43.953113,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fall Creek State Recreation Area"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.50941499999999,
+                    45.578544,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Government Island State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.98137199999996,
+                    42.737286,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Jackson F Kimball State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.19790899999998,
+                    45.738841,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "L.L.\" Stub \" Stewart State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66124500000001,
+                    44.853475,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Silver Falls State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.06032479999999,
+                    44.6051941,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "S Beach State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.907825,
+                    42.82858,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Frenchglen Hotel State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.97398299999998,
+                    44.04801,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ontario State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.95738,
+                    44.41863,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kam Wah Chung State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.21495500000003,
+                    45.286361,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wallowa Lake State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.630675,
+                    45.604849,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wallowa River Rest Area"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.22439789999999,
+                    45.3440783,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iwetemlaykin State Heritage Site"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70364699999999,
+                    42.659799,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casey State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.49103000000002,
+                    42.744173,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Prospect State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.090438,
+                    45.240005,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "White River Falls State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.25589100000002,
+                    44.268504,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cline Falls State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.28326500000003,
+                    44.058427,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pilot Butte State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.19334000000003,
+                    44.391223,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Peter Skene Ogden State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.28944999999999,
+                    42.406805,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chandler State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.41582699999998,
+                    42.495488,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Geisel Monument State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.425903,
+                    42.452836,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Otter Point State Recreation Site"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.516186,
+                    42.760786,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Garrison Beach State Wayside"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.51365699999997,
+                    42.739787,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Port Orford Heads State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.440269,
+                    43.030935,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bandon State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.105661,
+                    42.965218,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Coquille Myrtle Grove State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.43531100000001,
+                    43.105947,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bandon Ocean Wayside"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.115384,
+                    43.03714,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hoffman Memorial State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.38822800000003,
+                    43.234634,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Seven Devils State Recreation Site"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.42182100000002,
+                    42.334199,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cape Sebastian State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.21247700000004,
+                    42.003305,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Crissey Field State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.235525,
+                    42.019367,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "McVay Rock State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.40543000000002,
+                    42.266958,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pistol River State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.36136899999997,
+                    42.157597,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Samuel H Boardman State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.20528200000001,
+                    42.007878,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Winchuck State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.42397299999999,
+                    44.154003,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Alderwood State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84208100000001,
+                    43.936421,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Elijah Bristow State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.24496099999999,
+                    44.282144,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Washburne State Wayside"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.38736799999998,
+                    44.755191,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Maples Rest Area"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58778999999998,
+                    44.781531,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "North Santiam State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.398642,
+                    43.306313,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cape Arago State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.93276500000002,
+                    43.488226,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Golden and Silver Falls State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.38219900000001,
+                    43.323564,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Shore Acres State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.66299600000002,
+                    42.157263,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Illinois River State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88675699999999,
+                    42.441331,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "TouVelle State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.442361,
+                    42.115543,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tub Springs State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.37135899999998,
+                    42.668462,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wolf Creek County Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.05594789999998,
+                    45.39553,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bald Peak State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.715618,
+                    45.293778,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Molalla River State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.04448500000001,
+                    44.511432,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Beaver Creek State Natural Area"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.10173199999997,
+                    43.712478,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bolon Island Tideways State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.09647799999999,
+                    44.046485,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Darlingtonia State Botanical Wayside"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.085374,
+                    44.408412,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Governor Patterson Memorial State Recreation Site"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.12648899999999,
+                    44.132636,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Heceta Head Lighthouse State Scenic Area"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.11668400000002,
+                    44.169661,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Muriel O Ponsler Memorial State Wayside"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.109418,
+                    44.264077,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Neptune State Scenic Viewpoint"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.10626100000002,
+                    44.322193,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Smelt Sands State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.11401699999999,
+                    44.21442,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tokatee Klootchman State Wayside"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.11077399999999,
+                    44.224553,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stonefield Beach State Wayside"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.03500300000002,
+                    44.415148,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "W. B. Nelson State Recreation Site"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.10346300000003,
+                    44.30778,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Yachats Ocean Road State Natural Site"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.107056,
+                    44.310476,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Yachats State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.29405400000002,
+                    45.139168,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Erratic Rock State Natural Site"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.10509200000001,
+                    44.933084,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Holman State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.068264,
+                    45.096062,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Maud Williamson State Recreation Site"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.23704600000002,
+                    44.781686,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sarah Helmick State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.04646500000001,
+                    45.078012,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Willamette Mission State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.37680599999999,
+                    45.352024,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bonnie Lure State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63339960000002,
+                    45.3821619,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mary S Young State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67539999999997,
+                    45.441525,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tryon Creek State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2299822,
+                    45.8289257,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Banks-Vernonia State Trail"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.128737,
+                    45.577318,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Benson State Recreation Area"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.18452200000002,
+                    45.554666,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bridal Veil Falls State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.244598,
+                    45.538672,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Crown Point State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.35453799999999,
+                    45.518052,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dabney State Recreation Area"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.22467499999999,
+                    45.527599,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "George W Joseph State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.22952299999997,
+                    45.535905,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Guy W. Talbot State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.487123,
+                    45.703471,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Historic Columbia River Highway State Trail"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.47749699999997,
+                    45.704617,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Koberg Beach State Recreation Site"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.29335100000003,
+                    45.68032,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mayer State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.261484,
+                    45.534023,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Portland Women's Forum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.59116,
+                    45.701844,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Seneca Fouts Memorial State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.19998499999997,
+                    45.541931,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Shepperds Dell State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.69080600000001,
+                    45.687534,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Starvation Creek State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.637498,
+                    45.694138,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wygant State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.214925,
+                    45.545751,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rooster Rock State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.437545,
+                    46.170944,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bradley State Scenic Viewpoint"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.929103,
+                    46.04063,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Del Rey Beach State Recreation Site"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.97912500000001,
+                    45.218007,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cape Kiwanda State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.967985,
+                    45.486379,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cape Meares State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.97010399999999,
+                    45.460878,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oceanside Beach State Recreation Site"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.96425799999997,
+                    45.180865,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bob Straub State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.95949999999999,
+                    45.847196,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Arcadia Beach State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.96123399999999,
+                    45.828899,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hug Point State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.94119999999998,
+                    45.639908,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Manhattan Beach State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.95985999999999,
+                    45.769829,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oswald West State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.961075,
+                    45.872747,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tolovana Beach State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.05667900000003,
+                    44.659208,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Agate Beach State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.06747100000001,
+                    44.427818,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Alsea Bay Bridge Interpretive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.39537200000001,
+                    42.614503,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Arizona Beach State Recreation Site"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.96750600000001,
+                    45.283331,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Battle Mountain State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.06518069999998,
+                    44.8282187,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Boiler Bay State Wayside"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.94885499999998,
+                    45.27399,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Clay Myers State Natural Area at Whalen Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.46687199999997,
+                    45.477106,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "J S Burres State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.017042,
+                    44.967311,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "D River State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.06403999999998,
+                    44.746904,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Devils Punch Bowl State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81329700000003,
+                    43.918062,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dexter County Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.07993099999999,
+                    44.464237,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Driftwood Beach State Recreation Site"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.97835399999997,
+                    45.931015,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ecola State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.62981200000002,
+                    44.616006,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ellmaker State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.048093,
+                    44.838736,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fogarty Creek State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.57643999999999,
+                    45.073636,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fort Yamhill State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.035729,
+                    44.876293,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gleneden Beach State Wayside Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.33469150000002,
+                    42.6829335,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Golden State Heritage Site"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.78302400000001,
+                    45.051022,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "H B Van Duzer Forest State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.90100100000001,
+                    43.98761,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Jasper State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.07277199999999,
+                    44.551091,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lost Creek State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.796671,
+                    43.922147,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lowell State Recreation Site"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1632773,
+                    44.719545,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Luckiamute Landing State Natural Area"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.774224,
+                    45.365376,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Munson Creek Falls State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.9861798,
+                    45.10040069999999,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Neskowin Beach State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.11537299999998,
+                    42.5482768,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oc&E Woods Line State Trail"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.07145400000002,
+                    44.517906,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ona Beach State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.067204,
+                    44.760039,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Otter Crest State Wayside"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.50799799999999,
+                    42.757291,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Paradise Point State Recreation Site"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.008869,
+                    45.008134,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Roads End State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.0727498,
+                    44.7843531,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rocky Creek State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.08476999999999,
+                    44.496191,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Seal Rock State Wayside"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.02957400000003,
+                    44.940255,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oregon State Capitol State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.20475099999999,
+                    44.73933,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sumpter Valley Dredge State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.079095,
+                    44.46156,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Thompson's Mills State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.62265100000002,
+                    45.694778,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Vinzenz Lausmann Memorial State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.062835,
+                    44.811678,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Depoe Bay City Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6765236,
+                    45.5313422,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Willamette River Greenway Trail"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.74124899999998,
+                    45.519481,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Willamette Stone State Heritage Site"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.06132990000003,
+                    44.6240146,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Yaquina Bay State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.68518699999998,
+                    45.622609,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wallowa Lake Highway Forest State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.57754299999999,
+                    42.185125,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "R A Booth Memorial State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.98080900000002,
+                    45.619816,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "John B. Yeon State Scenic Corridor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.906747,
+                    45.649284,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sheridan State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.39689799999996,
+                    45.458209,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Blue Mountain Forest State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.91160500000001,
+                    43.648895,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Umpqua State Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.109982,
+                    44.369838,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Unity Forest State Park"
+            }
+        }
+    ]
+}
