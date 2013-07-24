@@ -12,7 +12,8 @@
                 ]
             },
             "properties": {
-                "name": "Goose Lake Recreation Area"
+                "name": "Goose Lake Recreation Area",
+                "marker-color": "62af44"
             }
         },
         {
@@ -26,7 +27,8 @@
                 ]
             },
             "properties": {
-                "name": "Farewell Bend State Park"
+                "name": "Farewell Bend State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -40,7 +42,8 @@
                 ]
             },
             "properties": {
-                "name": "Unity Lake State Recreation Site"
+                "name": "Unity Lake State Recreation Site",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -54,7 +57,8 @@
                 ]
             },
             "properties": {
-                "name": "Clyde Holliday State Park"
+                "name": "Clyde Holliday State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -68,7 +72,8 @@
                 ]
             },
             "properties": {
-                "name": "Lake Owyhee State Park"
+                "name": "Lake Owyhee State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -82,7 +87,8 @@
                 ]
             },
             "properties": {
-                "name": "Succor Creek State Natural Area"
+                "name": "Succor Creek State Natural Area",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -96,7 +102,8 @@
                 ]
             },
             "properties": {
-                "name": "Catherine Creek State Park"
+                "name": "Catherine Creek State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -110,7 +117,8 @@
                 ]
             },
             "properties": {
-                "name": "Hat Rock State Park"
+                "name": "Hat Rock State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -124,7 +132,8 @@
                 ]
             },
             "properties": {
-                "name": "Hilgard Junction State Park"
+                "name": "Hilgard Junction State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -138,7 +147,8 @@
                 ]
             },
             "properties": {
-                "name": "Red Bridge Wayside State Park"
+                "name": "Red Bridge Wayside State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -152,7 +162,8 @@
                 ]
             },
             "properties": {
-                "name": "Ukiah-Dale Forest State Park"
+                "name": "Ukiah-Dale Forest State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -166,7 +177,8 @@
                 ]
             },
             "properties": {
-                "name": "Emigrant State Park"
+                "name": "Emigrant State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -180,7 +192,8 @@
                 ]
             },
             "properties": {
-                "name": "Minam State Park"
+                "name": "Minam State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -194,7 +207,8 @@
                 ]
             },
             "properties": {
-                "name": "Joseph Stewart State Park"
+                "name": "Joseph Stewart State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -208,7 +222,8 @@
                 ]
             },
             "properties": {
-                "name": "The Cove Palisades State Park"
+                "name": "The Cove Palisades State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -222,7 +237,8 @@
                 ]
             },
             "properties": {
-                "name": "Prineville Reservoir State Park"
+                "name": "Prineville Reservoir State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -236,7 +252,8 @@
                 ]
             },
             "properties": {
-                "name": "Deschutes River State Recreation Area"
+                "name": "Deschutes River State Recreation Area",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -250,7 +267,8 @@
                 ]
             },
             "properties": {
-                "name": "Fort Rock State Park"
+                "name": "Fort Rock State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -264,7 +282,8 @@
                 ]
             },
             "properties": {
-                "name": "La Pine State Park"
+                "name": "La Pine State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -278,7 +297,8 @@
                 ]
             },
             "properties": {
-                "name": "Tumalo State Park"
+                "name": "Tumalo State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -292,7 +312,8 @@
                 ]
             },
             "properties": {
-                "name": "Smith Rock State Park"
+                "name": "Smith Rock State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -306,7 +327,8 @@
                 ]
             },
             "properties": {
-                "name": "Humbug Mountain State Park"
+                "name": "Humbug Mountain State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -320,7 +342,8 @@
                 ]
             },
             "properties": {
-                "name": "Cape Blanco State Park"
+                "name": "Cape Blanco State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -334,7 +357,8 @@
                 ]
             },
             "properties": {
-                "name": "Bullards Beach State Park"
+                "name": "Bullards Beach State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -348,7 +372,8 @@
                 ]
             },
             "properties": {
-                "name": "Alfred A Loeb State Park"
+                "name": "Alfred A Loeb State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -362,7 +387,8 @@
                 ]
             },
             "properties": {
-                "name": "Harris Beach State Park"
+                "name": "Harris Beach State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -376,7 +402,8 @@
                 ]
             },
             "properties": {
-                "name": "Detroit Lake State Park"
+                "name": "Detroit Lake State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -390,7 +417,8 @@
                 ]
             },
             "properties": {
-                "name": "William M. Tugman State Park"
+                "name": "William M. Tugman State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -404,7 +432,8 @@
                 ]
             },
             "properties": {
-                "name": "Sunset Bay State Park"
+                "name": "Sunset Bay State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -418,7 +447,8 @@
                 ]
             },
             "properties": {
-                "name": "Valley of the Rogue State Park"
+                "name": "Valley of the Rogue State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -432,7 +462,8 @@
                 ]
             },
             "properties": {
-                "name": "Champoeg State Park"
+                "name": "Champoeg State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -446,7 +477,8 @@
                 ]
             },
             "properties": {
-                "name": "Umpqua Lighthouse State Park"
+                "name": "Umpqua Lighthouse State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -460,7 +492,8 @@
                 ]
             },
             "properties": {
-                "name": "Beachside State Recreation Site"
+                "name": "Beachside State Recreation Site",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -474,7 +507,8 @@
                 ]
             },
             "properties": {
-                "name": "Carl G Washburne Memorial State Park"
+                "name": "Carl G Washburne Memorial State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -488,7 +522,8 @@
                 ]
             },
             "properties": {
-                "name": "Jessie M. Honeyman Memorial State Park"
+                "name": "Jessie M. Honeyman Memorial State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -502,7 +537,8 @@
                 ]
             },
             "properties": {
-                "name": "Milo McIver State Park"
+                "name": "Milo McIver State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -516,7 +552,8 @@
                 ]
             },
             "properties": {
-                "name": "Ainsworth State Park"
+                "name": "Ainsworth State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -530,7 +567,8 @@
                 ]
             },
             "properties": {
-                "name": "Lewis and Clark State Park"
+                "name": "Lewis and Clark State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -544,7 +582,8 @@
                 ]
             },
             "properties": {
-                "name": "Memaloose State Park"
+                "name": "Memaloose State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -558,7 +597,8 @@
                 ]
             },
             "properties": {
-                "name": "Viento State Park"
+                "name": "Viento State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -572,7 +612,8 @@
                 ]
             },
             "properties": {
-                "name": "Fort Stevens State Park"
+                "name": "Fort Stevens State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -586,7 +627,8 @@
                 ]
             },
             "properties": {
-                "name": "Cape Lookout State Park"
+                "name": "Cape Lookout State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -600,7 +642,8 @@
                 ]
             },
             "properties": {
-                "name": "Saddle Mountain State Park"
+                "name": "Saddle Mountain State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -614,7 +657,8 @@
                 ]
             },
             "properties": {
-                "name": "Nehalem Bay State Park"
+                "name": "Nehalem Bay State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -628,7 +672,8 @@
                 ]
             },
             "properties": {
-                "name": "Bates State Park"
+                "name": "Bates State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -642,7 +687,8 @@
                 ]
             },
             "properties": {
-                "name": "Beverly Beach State Park"
+                "name": "Beverly Beach State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -656,7 +702,8 @@
                 ]
             },
             "properties": {
-                "name": "Cascadia State Park"
+                "name": "Cascadia State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -670,7 +717,8 @@
                 ]
             },
             "properties": {
-                "name": "Collier Memorial State Park"
+                "name": "Collier Memorial State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -684,7 +732,8 @@
                 ]
             },
             "properties": {
-                "name": "Devils Lake State Park"
+                "name": "Devils Lake State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -698,7 +747,8 @@
                 ]
             },
             "properties": {
-                "name": "Fall Creek State Recreation Area"
+                "name": "Fall Creek State Recreation Area",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -712,7 +762,8 @@
                 ]
             },
             "properties": {
-                "name": "Government Island State Park"
+                "name": "Government Island State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -726,7 +777,8 @@
                 ]
             },
             "properties": {
-                "name": "Jackson F Kimball State Park"
+                "name": "Jackson F Kimball State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -740,7 +792,8 @@
                 ]
             },
             "properties": {
-                "name": "L.L.\" Stub \" Stewart State Park"
+                "name": "L.L.\" Stub \" Stewart State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -754,7 +807,8 @@
                 ]
             },
             "properties": {
-                "name": "Silver Falls State Park"
+                "name": "Silver Falls State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -768,7 +822,8 @@
                 ]
             },
             "properties": {
-                "name": "S Beach State Park"
+                "name": "S Beach State Park",
+                "marker-color": "62AF44"
             }
         },
         {
@@ -782,7 +837,8 @@
                 ]
             },
             "properties": {
-                "name": "Frenchglen Hotel State Park"
+                "name": "Frenchglen Hotel State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -796,7 +852,8 @@
                 ]
             },
             "properties": {
-                "name": "Ontario State Park"
+                "name": "Ontario State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -810,7 +867,8 @@
                 ]
             },
             "properties": {
-                "name": "Kam Wah Chung State Park"
+                "name": "Kam Wah Chung State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -824,7 +882,8 @@
                 ]
             },
             "properties": {
-                "name": "Wallowa Lake State Park"
+                "name": "Wallowa Lake State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -838,7 +897,8 @@
                 ]
             },
             "properties": {
-                "name": "Wallowa River Rest Area"
+                "name": "Wallowa River Rest Area",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -852,7 +912,8 @@
                 ]
             },
             "properties": {
-                "name": "Iwetemlaykin State Heritage Site"
+                "name": "Iwetemlaykin State Heritage Site",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -866,7 +927,8 @@
                 ]
             },
             "properties": {
-                "name": "Casey State Park"
+                "name": "Casey State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -880,7 +942,8 @@
                 ]
             },
             "properties": {
-                "name": "Prospect State Park"
+                "name": "Prospect State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -894,7 +957,8 @@
                 ]
             },
             "properties": {
-                "name": "White River Falls State Park"
+                "name": "White River Falls State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -908,7 +972,8 @@
                 ]
             },
             "properties": {
-                "name": "Cline Falls State Park"
+                "name": "Cline Falls State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -922,7 +987,8 @@
                 ]
             },
             "properties": {
-                "name": "Pilot Butte State Park"
+                "name": "Pilot Butte State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -950,7 +1016,8 @@
                 ]
             },
             "properties": {
-                "name": "Chandler State Park"
+                "name": "Chandler State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -964,7 +1031,8 @@
                 ]
             },
             "properties": {
-                "name": "Geisel Monument State Park"
+                "name": "Geisel Monument State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -978,7 +1046,8 @@
                 ]
             },
             "properties": {
-                "name": "Otter Point State Recreation Site"
+                "name": "Otter Point State Recreation Site",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -992,7 +1061,8 @@
                 ]
             },
             "properties": {
-                "name": "Garrison Beach State Wayside"
+                "name": "Garrison Beach State Wayside",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1006,7 +1076,8 @@
                 ]
             },
             "properties": {
-                "name": "Port Orford Heads State Park"
+                "name": "Port Orford Heads State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1020,7 +1091,8 @@
                 ]
             },
             "properties": {
-                "name": "Bandon State Park"
+                "name": "Bandon State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1034,7 +1106,8 @@
                 ]
             },
             "properties": {
-                "name": "Coquille Myrtle Grove State Park"
+                "name": "Coquille Myrtle Grove State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1048,7 +1121,8 @@
                 ]
             },
             "properties": {
-                "name": "Bandon Ocean Wayside"
+                "name": "Bandon Ocean Wayside",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1062,7 +1136,8 @@
                 ]
             },
             "properties": {
-                "name": "Hoffman Memorial State Park"
+                "name": "Hoffman Memorial State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1076,7 +1151,8 @@
                 ]
             },
             "properties": {
-                "name": "Seven Devils State Recreation Site"
+                "name": "Seven Devils State Recreation Site",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1090,7 +1166,8 @@
                 ]
             },
             "properties": {
-                "name": "Cape Sebastian State Park"
+                "name": "Cape Sebastian State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1104,7 +1181,8 @@
                 ]
             },
             "properties": {
-                "name": "Crissey Field State Park"
+                "name": "Crissey Field State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1118,7 +1196,8 @@
                 ]
             },
             "properties": {
-                "name": "McVay Rock State Park"
+                "name": "McVay Rock State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1132,7 +1211,8 @@
                 ]
             },
             "properties": {
-                "name": "Pistol River State Park"
+                "name": "Pistol River State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1146,7 +1226,8 @@
                 ]
             },
             "properties": {
-                "name": "Samuel H Boardman State Park"
+                "name": "Samuel H Boardman State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1160,7 +1241,8 @@
                 ]
             },
             "properties": {
-                "name": "Winchuck State Park"
+                "name": "Winchuck State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1174,7 +1256,8 @@
                 ]
             },
             "properties": {
-                "name": "Alderwood State Park"
+                "name": "Alderwood State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1188,7 +1271,8 @@
                 ]
             },
             "properties": {
-                "name": "Elijah Bristow State Park"
+                "name": "Elijah Bristow State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1202,7 +1286,8 @@
                 ]
             },
             "properties": {
-                "name": "Washburne State Wayside"
+                "name": "Washburne State Wayside",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1216,7 +1301,8 @@
                 ]
             },
             "properties": {
-                "name": "The Maples Rest Area"
+                "name": "The Maples Rest Area",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1230,7 +1316,8 @@
                 ]
             },
             "properties": {
-                "name": "North Santiam State Park"
+                "name": "North Santiam State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1244,7 +1331,8 @@
                 ]
             },
             "properties": {
-                "name": "Cape Arago State Park"
+                "name": "Cape Arago State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1258,7 +1346,8 @@
                 ]
             },
             "properties": {
-                "name": "Golden and Silver Falls State Park"
+                "name": "Golden and Silver Falls State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1272,7 +1361,8 @@
                 ]
             },
             "properties": {
-                "name": "Shore Acres State Park"
+                "name": "Shore Acres State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1286,7 +1376,8 @@
                 ]
             },
             "properties": {
-                "name": "Illinois River State Park"
+                "name": "Illinois River State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1300,7 +1391,8 @@
                 ]
             },
             "properties": {
-                "name": "TouVelle State Park"
+                "name": "TouVelle State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1314,7 +1406,8 @@
                 ]
             },
             "properties": {
-                "name": "Tub Springs State Park"
+                "name": "Tub Springs State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1328,7 +1421,8 @@
                 ]
             },
             "properties": {
-                "name": "Wolf Creek County Park"
+                "name": "Wolf Creek County Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1342,7 +1436,8 @@
                 ]
             },
             "properties": {
-                "name": "Bald Peak State Park"
+                "name": "Bald Peak State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1356,7 +1451,8 @@
                 ]
             },
             "properties": {
-                "name": "Molalla River State Park"
+                "name": "Molalla River State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1370,7 +1466,8 @@
                 ]
             },
             "properties": {
-                "name": "Beaver Creek State Natural Area"
+                "name": "Beaver Creek State Natural Area",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1384,7 +1481,8 @@
                 ]
             },
             "properties": {
-                "name": "Bolon Island Tideways State Park"
+                "name": "Bolon Island Tideways State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1398,7 +1496,8 @@
                 ]
             },
             "properties": {
-                "name": "Darlingtonia State Botanical Wayside"
+                "name": "Darlingtonia State Botanical Wayside",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1412,7 +1511,8 @@
                 ]
             },
             "properties": {
-                "name": "Governor Patterson Memorial State Recreation Site"
+                "name": "Governor Patterson Memorial State Recreation Site",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1426,7 +1526,8 @@
                 ]
             },
             "properties": {
-                "name": "Heceta Head Lighthouse State Scenic Area"
+                "name": "Heceta Head Lighthouse State Scenic Area",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1440,7 +1541,8 @@
                 ]
             },
             "properties": {
-                "name": "Muriel O Ponsler Memorial State Wayside"
+                "name": "Muriel O Ponsler Memorial State Wayside",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1454,7 +1556,8 @@
                 ]
             },
             "properties": {
-                "name": "Neptune State Scenic Viewpoint"
+                "name": "Neptune State Scenic Viewpoint",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1468,7 +1571,8 @@
                 ]
             },
             "properties": {
-                "name": "Smelt Sands State Park"
+                "name": "Smelt Sands State Park",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1482,7 +1586,8 @@
                 ]
             },
             "properties": {
-                "name": "Tokatee Klootchman State Wayside"
+                "name": "Tokatee Klootchman State Wayside",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1496,7 +1601,8 @@
                 ]
             },
             "properties": {
-                "name": "Stonefield Beach State Wayside"
+                "name": "Stonefield Beach State Wayside",
+                "marker-color": "0BA9CC"
             }
         },
         {
@@ -1510,7 +1616,8 @@
                 ]
             },
             "properties": {
-                "name": "W. B. Nelson State Recreation Site"
+                "name": "W. B. Nelson State Recreation Site",
+                "marker-color": "0BA9CC"
             }
         },
         {
